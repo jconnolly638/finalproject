@@ -20,7 +20,7 @@ Finally, we add "1" to the final product as if it's a positive number:
 
 This is the "two's complement" of 12. To read it, we (or a computer) simple read the most significant digit as a negative number, then the rest as positives, and add them all together. Adding these numbers gives us:
 
--(2^4^) + 2^2 = -12
+-(2^4^) + 2^2^ = -12
 
 To represent positive 12 in a two's complement system, we simply add a zero to the front of the number:
 
