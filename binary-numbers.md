@@ -4,7 +4,7 @@ How do binary numbers work? You probably know already that binary numbers are st
 
 10110111
 
-How would we begin converting this into a number we can easily understand? The answer is to look at binary numbers as a "base-2" number system. Our ordinary (decimal) number system is "base-ten", which means that each place value is ten times greater in magnitude than the place value to its right. For example, in the non-binary number "55", the first digit represents ten times the second digit. In binary numbers, on the other hand, each place value is only two times greater in magnitude than the number to its right. Other than that, the two systems work quite similarly. Let's count up from 1 in binary: 
+How would we begin converting this into a number we can easily understand? The answer is to look at binary numbers as a "base-2" number system. Our ordinary (decimal) number system is "base-ten", which means that each place value is ten times greater in magnitude than the place value to its right. For example, in the non-binary number "55", the first digit represents ten times the second digit. In binary numbers, on the other hand, each place value is only two times greater in magnitude than the number to its right. Other than that, the two systems work quite similarly. Let's count up from zero in binary: 
 
 0000
 
