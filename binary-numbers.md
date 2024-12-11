@@ -1,3 +1,3 @@
 ### Binary Numbers
 
-[back to readme](readme.md)
+[back to readme](README.md)
