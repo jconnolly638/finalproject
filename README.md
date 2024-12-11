@@ -4,6 +4,6 @@ Hello! This is John Connolly's final project for INFOTC 1600. This repository is
 
 To learn how numbers are represented in binary, [click here.](binary-numbers.md)
 
-To learn how negative numbers are represented in binary, click here. 
+To learn how negative numbers are represented in binary, [click here.](negatives-in-binary.md)
 
-To learn about endianness, click here. 
+To learn about endianness, [click here.](endianness.md)
